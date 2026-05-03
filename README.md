@@ -4,7 +4,7 @@
     <b>👨‍💻 Lucas Zansavio Pereira</b>
   </h1>
 
-  <p align="center">🎯 Segurança da Informação | Blue Team</p>
+  <p align="center">🎯 Segurança da Informação</p>
   
   <img src="https://img.shields.io/badge/-Laticínios%20Carolina-blue?style=for-the-badge" />
 
@@ -13,16 +13,6 @@
   <p>Olá! Meu nome é Lucas, tenho 20 anos e atualmente estudo Segurança da Informação na FATEC Ourinhos.</p>
   <p>Atualmente trabalho na área de TI com foco em suporte técnico (N1), manutenção de hardware e documentação de processos, buscando constantemente aprimorar minhas habilidades e adquirir experiência prática em cibersegurança.</p>
   <p>Tenho grande interesse em Blue Team, com foco em defesa, monitoramento e análise de incidentes.</p>
-
-  <hr style="height:2px;border:none;background-color:black;">
-
-  <h3>📚 Atualmente Estudando</h3>
-  <p>
-    <code>🔐 Hardening em Linux</code> &nbsp; 
-    <code>📊 SIEM</code> &nbsp; 
-    <code>🛡️ Blue Team</code> &nbsp; 
-    <code>⚙️ Automação com Ansible</code>
-  </p>
 
   <hr style="height:2px;border:none;background-color:black;">
 
