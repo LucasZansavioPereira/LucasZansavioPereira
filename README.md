@@ -10,7 +10,7 @@
 
   <hr style="height:2px;border:none;background-color:black;">
 
-  <p>Olá! Meu nome é Lucas, tenho 20 anos e atualmente estudo Segurança da Informação na FATEC Ourinhos.</p>
+  <p>Olá! Meu nome é Lucas, tenho 20 anos e estudo Segurança da Informação na FATEC Ourinhos.</p>
   <p>Atualmente trabalho na área de TI com foco em suporte técnico (N1), manutenção de hardware e documentação de processos, buscando constantemente aprimorar minhas habilidades e adquirir experiência prática em cibersegurança.</p>
   <p>Tenho grande interesse em Blue Team, com foco em defesa, monitoramento e análise de incidentes.</p>
 
